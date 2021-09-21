@@ -28,7 +28,7 @@
     color:yellow;
 }
 .LADYHUNSTANTON{   
-    color:green;
+    color:gree;
 }
 table, th, td {
     border: 5px solid black; 
@@ -41,3 +41,26 @@ table, th, td {
   {
       background-color: rgb(194, 165, 71);
   }
+  .LADYCAROLINE:hover{
+    text-shadow: 2px 3px 4px crimson ;
+    border-style: double;
+    border: 1px solid;
+    background-color: rgb(156, 241, 241);
+    box-shadow: 4px 4px 4px gray;
+    filter: blur(1px);
+}
+.LADYHUNSTANTON:hover{
+    text-shadow: 2px 3px 4px rgb(176, 202, 25) ;
+    border-style: double;
+    border: 1px solid;
+    background-color: rgb(130, 247, 192);
+    box-shadow: 4px 4px 4px rgb(209, 98, 98);
+    filter: blur(1px);}
+.ALLONBY:hover{
+        text-shadow: 2px 3px 4px rgb(3, 3, 3) ;
+        border-style: double;
+        border: 1px solid;
+        background-color: rgb(156, 241, 241);
+        box-shadow: 4px 4px 4px rgb(184, 26, 26);
+        filter: blur(1px);
+    }
